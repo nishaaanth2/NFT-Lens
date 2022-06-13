@@ -1,2 +1,3 @@
 # NFT-Lens
-Scans the shown image and returns simalar NFTs as result. 
+An iOS App, 
+Objective: Scans the shown image and returns simalar NFTs and it's details as result. 
