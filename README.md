@@ -1,5 +1,5 @@
 # NFT-Lens
-![Language](https://img.shields.io/badge/language-Swift%203-orange.svg)
+![Language](https://img.shields.io/badge/language-Swift%203-orange.svg)  
 An iOS App developed using Swift and ML Modeling,  
 Objective: Scans the shown image and returns simalar NFTs and it's details as result. 
 
