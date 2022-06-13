@@ -1,0 +1,46 @@
+PODS:
+  - CocoaAsyncSocket (7.6.5)
+  - CocoaMQTT (1.2.5):
+    - CocoaAsyncSocket (~> 7.6.3)
+  - CocoaMQTT/Core (1.3.0-rc.1):
+    - CocoaAsyncSocket (~> 7.6.3)
+  - CocoaMQTT/WebSockets (1.3.0-rc.1):
+    - CocoaMQTT/Core
+    - Starscream (~> 3.0.2)
+  - lottie-ios (3.2.3)
+  - ShimmerSwift (2.1.1)
+  - SkeletonView (1.25.1)
+  - Starscream (3.0.6)
+  - SwiftMQTT (3.0.1)
+
+DEPENDENCIES:
+  - CocoaMQTT
+  - CocoaMQTT/WebSockets (= 1.3.0-rc.1)
+  - lottie-ios
+  - ShimmerSwift
+  - SkeletonView
+  - Starscream (~> 3.0.2)
+  - SwiftMQTT
+
+SPEC REPOS:
+  trunk:
+    - CocoaAsyncSocket
+    - CocoaMQTT
+    - lottie-ios
+    - ShimmerSwift
+    - SkeletonView
+    - Starscream
+    - SwiftMQTT
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
+  CocoaMQTT: 3a24a180c2d7759465abbd96d49c655e4399ac35
+  lottie-ios: c058aeafa76daa4cf64d773554bccc8385d0150e
+  ShimmerSwift: f7ed2daf9c246de8299dfd9e12c6ab465cba9842
+  SkeletonView: 77079530e1348a72f48b79ae30dcb966c1b18b6a
+  Starscream: ef3ece99d765eeccb67de105bfa143f929026cf5
+  SwiftMQTT: 983eeb29e8c8173ed953e0238d2f99b79ff3ccd2
+
+PODFILE CHECKSUM: f4963d01977bdecfd5e3ff5afe9c1ed19e11345f
+
+COCOAPODS: 1.11.2
