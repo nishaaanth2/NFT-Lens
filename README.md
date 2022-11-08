@@ -3,6 +3,7 @@
 An iOS App developed using Swift and ML Modeling,  
 Objective: Scans the shown image and returns simalar NFTs and it's details as result. 
 
+![](https://github.com/nishaaanth2/NFT-Lens/blob/main/nftlens-2.gif)
 
 
 ## Author
